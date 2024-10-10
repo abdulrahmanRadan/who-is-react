@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/who-is-react/static/css/main.6c47ff30.css",
+    "main.js": "/who-is-react/static/js/main.eb82c61e.js",
+    "static/js/453.1b99d5ec.chunk.js": "/who-is-react/static/js/453.1b99d5ec.chunk.js",
+    "index.html": "/who-is-react/index.html",
+    "main.6c47ff30.css.map": "/who-is-react/static/css/main.6c47ff30.css.map",
+    "main.eb82c61e.js.map": "/who-is-react/static/js/main.eb82c61e.js.map",
+    "453.1b99d5ec.chunk.js.map": "/who-is-react/static/js/453.1b99d5ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c47ff30.css",
+    "static/js/main.eb82c61e.js"
+  ]
+}

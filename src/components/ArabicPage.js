@@ -68,7 +68,6 @@ const ArabicPage = () => {
             )}
           </div>
         ))}
-
         {/* رابط للحصول على مزيد من التفاصيل حول React */}
         <div className="mt-6 text-center">
           <a

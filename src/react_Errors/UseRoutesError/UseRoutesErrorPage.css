@@ -1,0 +1,30 @@
+.error-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #dc3545;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.solution-section {
+  margin-top: 20px;
+}
+
+pre {
+  background-color: #f1f1f1;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+code {
+  font-family: "Courier New", Courier, monospace;
+  color: #007bff;
+}

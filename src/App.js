@@ -13,7 +13,7 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/who-is-react" element={<Home />} />
         <Route path="/language-selection" element={<LanguageSelection />} />
         <Route path="/ar" element={<ArabicPage />} />
         <Route path="/en" element={<EnglishPage />} />

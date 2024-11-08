@@ -1,0 +1,25 @@
+/* ملف Home.css */
+
+/* تنسيق الحاوية الرئيسية */
+.home-container {
+  @apply flex flex-col items-center justify-center min-h-screen bg-gray-50;
+}
+
+/* تنسيق العنوان */
+.home-title {
+  @apply text-4xl font-bold mb-6 text-blue-600;
+}
+
+/* تنسيق الروابط */
+.home-links {
+  @apply flex flex-col space-y-4;
+}
+
+.home-link {
+  @apply text-white font-semibold px-6 py-2 rounded bg-blue-500 hover:bg-blue-700;
+}
+
+/* تنسيق رابط الخطأ */
+.error-link {
+  @apply bg-red-500 hover:bg-red-700;
+}
